@@ -1,6 +1,6 @@
 spring:
   application: 
-    name: Congif-Default
+    name: USER-SERVICE-GITHUB
 eureka:
    instace:
        prefer-ip-address: true
