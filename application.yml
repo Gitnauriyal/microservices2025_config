@@ -1,3 +1,6 @@
+spring:
+  application: 
+    name: Congif-Default
 eureka:
    instace:
        prefer-ip-address: true
