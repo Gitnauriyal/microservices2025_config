@@ -1,6 +1,6 @@
 spring:
   application: 
-    name: Congif-Client
+    name: Congif-Prod
 eureka:
    instace:
        prefer-ip-address: true
