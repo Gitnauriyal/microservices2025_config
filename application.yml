@@ -1,6 +1,6 @@
-spring:
-  application: 
-    name: USER-SERVICE-GITHUB
+# spring:
+#   application: 
+#     name: USER-SERVICE
 eureka:
    instace:
        prefer-ip-address: true
